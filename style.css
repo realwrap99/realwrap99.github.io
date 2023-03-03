@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+}
+
+table {
+  line-height: 1.6;
+  border-top: 4px solid black;
+  margin-top: 20px;
+  padding: 8px;
+}
+
+td {
+  padding: 6px;
+  text-align: left;
+}
